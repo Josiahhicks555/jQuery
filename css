@@ -65,7 +65,7 @@ html, body {
   
   /* Main */
   .main {
-    background: url('https://images.unsplash.com/photo-1612185990815-c99fd61da03c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80') no-repeat center center;
+    background: url('https://images.unsplash.com/photo-1612392062126-5cc76074df9c?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80') no-repeat center center;
     background-size: cover;
     height: 400px;
     width: 100%;
@@ -91,5 +91,6 @@ html, body {
       width: 225px;
     }
   }
+  
   
   
