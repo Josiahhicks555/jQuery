@@ -65,7 +65,7 @@ html, body {
   
   /* Main */
   .main {
-    background: url('https://content.codecademy.com/projects/2/madison-square-market/s1.jpg') no-repeat center center;
+    background: url('https://images.unsplash.com/photo-1612185990815-c99fd61da03c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80') no-repeat center center;
     background-size: cover;
     height: 400px;
     width: 100%;
@@ -91,4 +91,5 @@ html, body {
       width: 225px;
     }
   }
+  
   
